@@ -18,4 +18,4 @@ Then we run the PredictAttendance script.
     -> In this the user is expected to run IP webcam on his/her phone and create a server(connection) 
     -> For this, the computer(server) and the phone must be connected on same Wifi(net enabled).
 
-Note:- The model is pretrained on Jason Mamoa, Elon Musk and Leonardo DiCap. So you can directly run the PredictAttendance(10 single images) to see the output.
+Note:- The model is pretrained on Jason Mamoa, Elon Musk and Leonardo DiCap. So you can directly run the PredictAttendance(Face_recog 10 stills) to see the output.
