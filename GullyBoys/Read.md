@@ -8,9 +8,9 @@ Moreover, the same architecture can be used for surveillance too.
 
 Instructions:
 
-Install and unpack electron inside /UI
-Open Terminal and run electron using npm start
-Default logins credentials are:
-  staff@mozohack.com | mozostaff
-  admin@mozohack.com | mozoadmin
-All codes are equipped with appropriate logs for debug.
+->Install and unpack electron inside /UI
+->Open Terminal and run electron using npm start
+->Default logins credentials are:
+  -staff@mozohack.com | mozostaff
+  -admin@mozohack.com | mozoadmin
+->All codes are equipped with appropriate logs for debug.
